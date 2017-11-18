@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+h1 {
+    color: #80162e;
+}
+
+.card {
+    border: none;
+    margin: 5px 0;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+.card-link:focus{
+    text-decoration: none;
+}
+
+.card-link .card-header {
+    border-radius: 3px;
+}
+
+.card-header {
+    background-color: #80162e;
+}
+
+.card-header h5 {
+    color: white;
+    text-decoration: none;
+}
+
+.card-block ul {
+    padding-left: 15px;
+}
+
+.card-block ul li {
+    color: #80162e;
+    list-style-type: none;
+}
